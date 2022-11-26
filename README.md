@@ -26,7 +26,7 @@ _**but depending on the amount of data, it will take a while**_
 The user **MUST** agree to share more details _(like the direct address of the place of residence)_  
 
 
-all requests use a **unique, randomized request ID**, so _(if the user wants to encrypt the data...)_ the response is stored on a public _(government-provided or generally trusted)_ server   
+all requests use a **unique, randomized request ID**, so _(if the user wants to encrypt the data or the retrieving took more time as usal...)_ the response is stored on a public _(government-provided or generally trusted)_ server   
 so that the data can be retrieved **once**  
 after the **one-time** retrieval, **_the data set and the response are deleted_**  
 
@@ -51,18 +51,23 @@ _(to make sure that we give our address to amazon and not to a scammy amerzun we
 here are some more examples  
 
 
-Pornhub...
-**don't need to know my name or my age....**
-pornhub only needs to know if I am an adult!
+Pornhub...  
+**don't need to know my name or my age....**  
+pornhub only needs to know if I am an adult!  
 
 
 amazon does not need my passport picture  
-but maybe we should give my passport picture to the delivery boy
-so he knows what the recipient looks like? (must be an opt in option)
+but maybe we should give my passport picture to the delivery boy  
+so he knows what the recipient looks like? (must be an opt in option)  
 
 
 
 Any other ideas?
 
-please suggest them
+please suggest them  
 
+
+
+Thanks to The Morpheus for give me some ideas:  
+https://www.youtube.com/watch?v=VrIFPBNifqc  
+https://www.youtube.com/@TheMorpheusVlogs
